@@ -6,7 +6,7 @@ visualize_ML is a python package made to visualize some of the steps involved wh
 ### Table of content:
 * [Requirements](https://github.com/ayush1997/visualize_ML/#requirement)
 * [Install](https://github.com/ayush1997/visualize_ML/#install)
-* [Let's code](https://github.com/ayush1997/visualize_ML/#lets-code)
+* [Let's cqweqweqweqweqweode](https://github.com/ayush1997/visualize_ML/#lets-code)
 	* [explore module](https://github.com/ayush1997/visualize_ML/#-explore-module)
 	* [relation module](https://github.com/ayush1997/visualize_ML/#-relation-module)
 * [Contribute](https://github.com/ayush1997/visualize_ML/#contribute)
